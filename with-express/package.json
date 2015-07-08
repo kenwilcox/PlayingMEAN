@@ -1,0 +1,16 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "Starting out code for MEAN stack",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "author": "Ken Wilcox",
+  "license": "MIT",
+  "homepage": "tbd"
+}
